@@ -1,0 +1,20 @@
+{
+  "local": {
+    "unitPassed": 940,
+    "unitFailed": 0,
+    "browser": {
+      "startTime": "2026-10-27T03:46:14.977Z",
+      "duration": 37936.582,
+      "expected": 30,
+      "skipped": 2,
+      "unexpected": 0,
+      "flaky": 0
+    },
+    "productionBuild": "passed",
+    "officialRuleVerification": "blocked",
+    "deploymentPrerequisite": "Forbidden; stopped on first call",
+    "ci": "not-started",
+    "pages": "not-started",
+    "publicSite": "not-verified"
+  }
+}

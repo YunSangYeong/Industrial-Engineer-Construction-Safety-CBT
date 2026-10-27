@@ -1,0 +1,25 @@
+[
+  {
+    "id": "LOCAL-EXAMPLE-001",
+    "subject": "산업재해 예방 및 안전보건교육",
+    "topic": "재해 조사",
+    "question": "재해 원인 조사에서 가장 먼저 확보할 자료는?",
+    "choices": [
+      "사고 당시 작업 조건과 사실관계",
+      "담당자의 성격에 대한 추측",
+      "처벌 대상자의 명단",
+      "사고와 무관한 소문"
+    ],
+    "answer": 1,
+    "explanation": "사고 당시 작업·설비·환경·행동의 사실관계를 보존해야 원인 분석과 재발 방지 대책을 세울 수 있다. 추측이나 처벌 대상 선정은 사실 조사 자체를 대신할 수 없다.",
+    "difficulty": "중",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Industrial-Engineer-Construction-Safety-CBT/blob/main/docs/question-review.md",
+    "verificationStatus": "pending",
+    "reviewNote": "예제. 출처·권한·정답 확인 후 근거를 기록하세요.",
+    "version": "main",
+    "rights": "자체 제작 · CC BY 4.0 · 건설안전산업기사 CBT 기여자 표시 및 변경사항 명시. 제3자 기출 전재 없음."
+  }
+]
